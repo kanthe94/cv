@@ -3,7 +3,7 @@ title: My Work Experience
 hide_table_of_contents: true
 ---
 
-### Companies I Have Worked With
+### Companies
 
 <div class="parent">
 
@@ -33,6 +33,8 @@ client and resolve process queries of users over mail.</li>
 </div>
 </div>
 
+---
+
 <div class="child1">
 <div class="child11">
 
@@ -58,6 +60,8 @@ through Selenium and Web GUI, and sending a summary mail.</li>
 </div>
 </div>
 
+---
+
 <div class="child1">
 <div class="child11">
 
@@ -77,6 +81,8 @@ through Selenium and Web GUI, and sending a summary mail.</li>
 </ul>
 </div>
 </div>
+
+---
 
 <div class="child1">
 <div class="child11">
@@ -99,10 +105,9 @@ through Selenium and Web GUI, and sending a summary mail.</li>
 
 </div>
 
-
 ---
 
-### Clients I Have Worked With
+### Clients
 
 <div class="child2">
 <div class="child31">

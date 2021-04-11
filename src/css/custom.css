@@ -94,16 +94,17 @@ img[alt=SignSize] {
   display: flex;
   align-items: center;
   margin-bottom: 3%;
-  padding-left: 5%;
+  margin-top: 2%;
 }
 
 .child11 {
-  width: 25%;
-  margin-top: 0%;
+  width: 30%;
+  padding-left: 5%;
 }
 
 .child12 {
-  width: 75%;
+  width: 70%;
+  padding-left: 5%;
 }
 
 .child2 {
@@ -111,12 +112,13 @@ img[alt=SignSize] {
 }
 
 .child21 {
-  width: 40%;
-  
+  min-width: 30%;
 }
 
 .child22 {
-  width: 60%;
+  padding-left: 3%;
+  margin-top: 5%;
+  min-width: 60%;
 }
 
 .child31 {
@@ -133,4 +135,11 @@ img[alt=SignSize] {
 .navbar__link:hover, .navbar__link--active {
   color: var(--ifm-navbar-link-hover-color) !important;
   background-color: rgb(228, 215, 240);
+}
+
+@media (min-width: 997px) {
+.docMainContainer_3ufF {
+    flex-grow: 1;
+    max-width: 100% !important;
+}
 }

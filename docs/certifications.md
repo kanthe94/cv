@@ -3,10 +3,6 @@ title: Acquired Certifications
 hide_table_of_contents: true
 ---
 
-
-
----
-
 <div class="child1">
 <div class="child11">
 
