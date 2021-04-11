@@ -1,80 +1,94 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'I am Ganesh Kanthe',
+  tagline: 'Welcome To My Website',
+  url: 'https://techwriter94.github.io/',
+  baseUrl: '/horse-ride/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/ganesh.svg',
+  organizationName: 'techwriter94', // Usually your GitHub org/user name.
+  projectName: 'horse-ride', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      disableSwitch: true,
+    },
     navbar: {
-      title: 'My Site',
+      // title: 'My Website',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/ganesh.svg',
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          to: 'docs/about',
+          // activeBasePath: 'docs',
+          label: 'About',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          to: 'docs/skills',
+          // activeBasePath: 'docs',
+          label: 'Skills',
+          position: 'left',
         },
+        {
+          to: 'docs/experience',
+          // activeBasePath: 'docs',
+          label: 'Experience',
+          position: 'left',
+        },
+        {
+          to: 'docs/certifications',
+          // activeBasePath: 'docs',
+          label: 'Certifications',
+          position: 'left',
+        },
+        {
+          to: 'docs/education',
+          // activeBasePath: 'docs',
+          label: 'Education',
+          position: 'left',
+        },
+        // {to: 'blog', label: 'Blog', position: 'left'},
+        // {
+        //   href: 'https://github.com/facebook/docusaurus',
+        //   label: 'Day-Night Mode',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Contact Information',
           items: [
             {
-              label: 'Getting Started',
-              to: 'docs/',
+              label: 'Phone Number: 9619160088',
+              href:"#"
             },
+            {
+              label: 'Email: ganeshkanthe94@gmail.com',
+              href: 'mailto:ganeshkanthe94@gmail.com',
+            }
           ],
         },
         {
-          title: 'Community',
+          title: 'Connect With Me',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: "LinkedIn",
+              href: 'https://www.linkedin.com/in/ganesh-kanthe',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: "Facebook",
+              href: 'https://www.facebook.com/people/Ganesh-Kanthe/100008409331712',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} - Built by Ganesh Kanthe`,
     },
   },
   presets: [

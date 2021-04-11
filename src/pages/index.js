@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Software Engineer',
+    imageUrl: 'img/engineer.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Worked closely over 4 years with companies such as TechMahindra, Vyom Labs, Clover Infotech, as well as clients ICICI Lombard and Wipro in insurance domain.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Classroom Trainer',
+    imageUrl: 'img/trainer.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Training students for their board preparation and teaching them subjects like Maths and Science. Taught in coaching centres, gave online and in-person tutoring too.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Content Writer',
+    imageUrl: 'img/writer.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Wrote notes, syllabus, and tutorials for students. Designed social media posts and flyers for my coaching centre. Also wrote articles on education and schooling.
       </>
     ),
   },
@@ -71,13 +68,16 @@ export default function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
+              to={useBaseUrl('docs/about')}>
               Get Started
             </Link>
           </div>
         </div>
       </header>
       <main>
+        <div class="intro">
+        <p class="intro__subtitle">Here are some of the roles that I have played in my career</p>
+        </div>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">

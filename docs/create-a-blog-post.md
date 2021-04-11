@@ -1,25 +1,38 @@
 ---
-title: Create a Blog Post
+title: Create a Document
 ---
 
-This page will help you on how to create blog posts in Docusaurus.
+Documents are pages with a **sidebar**, a **previous/next navigation** and many other useful features.
 
-## Create a Blog Post
+## Create a Document
 
-Create a file at `blog/2021-02-28-greetings.md`:
+Create a markdown file at `docs/my-doc.md`:
 
-```md title="blog/2021-02-28-greetings.md"
+```mdx title="docs/hello.md"
 ---
-title: Greetings!
-author: Steven Hansel
-author_title: Docusaurus Contributor
-author_url: https://github.com/ShinteiMai
-author_image_url: https://github.com/ShinteiMai.png
+title: Hello, World!
 ---
 
-Congratulations, you have made your first post!
+## Hello, World!
 
-Feel free to play around and edit this post as much you like.
+This is your first document in **Docusaurus**, Congratulations!
 ```
 
-A new blog post is now available at `http://localhost:3000/blog/greetings`.
+A new document is now available at `http://localhost:3000/docs/hello`.
+
+## Add your document to the sidebar
+
+Add `hello` to the `sidebars.js` file:
+
+```diff title="sidebars.js"
+module.exports = {
+  docs: [
+    {
+      type: 'category',
+      label: 'Docusaurus Tutorial',
+-     items: ['getting-started', 'create-a-doc', ...],
++     items: ['getting-started', 'create-a-doc', 'hello', ...],
+    },
+  ],
+};
+```
