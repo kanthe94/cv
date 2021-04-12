@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{106:function(o){o.exports=JSON.parse('{"allTagsPath":"/horse-ride/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/horse-ride/blog/tags/hello"}')}}]);
