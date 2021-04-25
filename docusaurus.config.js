@@ -2,13 +2,13 @@
 module.exports = {
   title: 'I am Ganesh Kanthe',
   tagline: 'Welcome To My Website',
-  url: 'https://techwriter94.github.io/',
-  baseUrl: '/horse-ride/',
+  url: 'https://kanthe94.github.io/',
+  baseUrl: '/cv/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/ganesh.svg',
-  organizationName: 'techwriter94', // Usually your GitHub org/user name.
-  projectName: 'horse-ride', // Usually your repo name.
+  organizationName: 'kanthe94', // Usually your GitHub org/user name.
+  projectName: 'cv', // Usually your repo name.
   themeConfig: {
     colorMode: {
       disableSwitch: true,
