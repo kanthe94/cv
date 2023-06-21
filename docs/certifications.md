@@ -6,6 +6,36 @@ hide_table_of_contents: true
 <div class="child1">
 <div class="child11">
 
+<h3>API Documentation course</h3>
+
+</div>
+
+<div class="child12">
+<b>Vendor</b>: Careerpreneur - YouTube <br />
+<b>Year</b>: 2022 <br />
+</div>
+</div>
+
+---
+
+<div class="child1">
+<div class="child11">
+
+<h3>Udemy: How to Write Software Documentation</h3>
+
+</div>
+
+<div class="child12">
+<b>Vendor</b>: Udemy <br />
+<b>Year</b>: 2020 <br />
+</div>
+</div>
+
+---
+
+<div class="child1">
+<div class="child11">
+
 <h3>Web Development Course</h3>
 
 </div>

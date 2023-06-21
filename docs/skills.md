@@ -6,17 +6,21 @@ hide_table_of_contents: true
 <div class="child1">
 <div class="child11">
 
-<h2>General</h2>
+<h2>Professional</h2>
 
 </div>
 
 <div class="child12">
 
 <ul>
-<li> Hard working and result oriented </li>
-<li> Good follower and sincere </li>
-<li> Positive towards constructive criticism </li>
-<li> Basic knowledge of computer peripherals </li>
+<li> Preparing User Manuals </li>
+<li> Maintaining Knowledge Base </li>
+<li> Documenting S/W Products </li>
+<li> Developing Videos </li>
+<li> Writing FAQs </li>
+<li> Creating Blogs </li>
+<li> Proofreading </li>
+<li> Developing LMS </li>
 </ul>
 
 </div>
@@ -69,18 +73,26 @@ hide_table_of_contents: true
 <div class="child1">
 <div class="child11">
 
-<h2>Software</h2>
+<h2>Tools</h2>
 
 </div>
 
 <div class="child12">
 
 <ul>
-<li> Process Studio</li>
-<li> UIPath RPA </li>
-<li> AutoIT and Sahi </li>
-<li> AutomationEdge </li>
-<li> VSCode </li>
+<li> Google Docs </li>
+<li> Quip </li>
+<li> Snagit </li>
+<li> Camtasia </li>
+<li> Canva </li>
+<li> Postman </li>
+<li> Amazon Polly </li>
+<li> Visual Studio Code </li>
+<li> Grammarly </li>
+<li> Git </li>
+<li> Jira </li>
+<li> Docusaurus </li>
+<li> ChatGPT </li>
 </ul>
 
 </div>

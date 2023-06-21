@@ -8,29 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Software Engineer',
-    imageUrl: 'img/engineer.png',
+    title: 'Technical Writer',
+    imageUrl: 'img/writer.png',
     description: (
       <>
-        Worked closely over 4 years with companies such as TechMahindra, Vyom Labs, Clover Infotech, as well as clients ICICI Lombard and Wipro in insurance domain.
+        Prepared user manuals, maintained knowledge bases, documented software products, created videos, wrote FAQs, and proofread content. Well-versed in using various tools such as Google Docs, Snagit, Camtasia, Amazon Polly, and Git.
       </>
     ),
   },
+  // {
+  //   title: 'Software Engineer',
+  //   imageUrl: 'img/engineer.png',
+  //   description: (
+  //     <>
+  //       Worked closely over 4 years with companies such as TechMahindra, Vyom Labs, Clover Infotech, as well as clients ICICI Lombard and Wipro in insurance domain.
+  //     </>
+  //   ),
+  // },
   {
     title: 'Classroom Trainer',
     imageUrl: 'img/trainer.png',
     description: (
       <>
         Training students for their board preparation and teaching them subjects like Maths and Science. Taught in coaching centres, gave online and in-person tutoring too.
-      </>
-    ),
-  },
-  {
-    title: 'Content Writer',
-    imageUrl: 'img/writer.png',
-    description: (
-      <>
-        Wrote notes, syllabus, and tutorials for students. Designed social media posts and flyers for my coaching centre. Also wrote articles on education and schooling.
       </>
     ),
   },

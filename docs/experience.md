@@ -10,24 +10,46 @@ hide_table_of_contents: true
 <div class="child1">
 <div class="child11">
 
+![ImageSize](/img/fynd.png)
+
+</div>
+
+<div class="child12">
+
+<b>Role</b>: Technical Writer 1 <br />
+<b>Period</b>: January 2022 - Ongoing <br />
+<b>Responsibilities</b>:  
+
+<ul>
+<li>Creating user documentation and videos for using Fynd Platform and its extensions</li>
+<li>Proofreading UI content of product designs</li>
+<li>Interviewing SMEs to prepare a knowledge base</li>
+<li>Deploying documentations using Git</li>
+<li>Designing learning management system (LMS) using Eduflow</li>
+</ul>
+
+</div>
+</div>
+
+---
+
+<div class="child1">
+<div class="child11">
+
 ![ImageSize](/img/clover-infotech.jpg)
 
 </div>
 
 <div class="child12">
 
-<b>Role</b>: Software Engineer + Support <br />
-<b>Period</b>: July 2020 - Ongoing <br />
+<b>Role</b>: Technical Writer (Support) <br />
+<b>Period</b>: July 2020 - December 2021 <br />
 <b>Responsibilities</b>:  
 
 <ul>
-<li><u>Mail automation to book policies</u>: Automate user mail
-send/receive, validation of Excel attachment, creation of
-customer ID, proposal, payment ID, tagging, policy number,
-and PDF generation of policy through Web Services.</li>
-<li><u>Perform MIS activities</u>: Debug the code to identify bugs and
-fix them, help build logic as per business requirements of
-client and resolve process queries of users over mail.</li>
+<li>Creating user manuals for automating policy generation</li>
+<li>Collecting support queries from L1 and L2 support and liaising with developers to prepare a knowledge base</li>
+<li>Preparing blogs and proofreading the ones written by other members</li>
 </ul>
 
 </div>
@@ -44,17 +66,13 @@ client and resolve process queries of users over mail.</li>
 
 <div class="child12">
 
-<b>Role</b>: Software Engineer <br />
-<b>Period</b>: January 2019 - April 2020<br />
+<b>Role</b>: Junior Technical Writer <br />
+<b>Period</b>: January 2019 - May 2020<br />
 <b>Responsibilities</b>: 
 
 <ul>
-<li>Perform CRUD of Mail IDs on exchange server by automation
-of PowerShell script and integration of BMC Remedy
-(ticketing tool) with Process Studio.</li>
-<li>Data massaging using Process Studio, uploading processed
-files on Pathfinder app, submitting and accepting PIDs
-through Selenium and Web GUI, and sending a summary mail.</li>
+<li>Wrote an entire documentation of their in-house tool named Process Studio</li>
+<li>Drafted commonly asked questions</li>
 </ul>
 
 </div>
@@ -71,13 +89,14 @@ through Selenium and Web GUI, and sending a summary mail.</li>
 
 <div class="child12">
 
-<b>Role</b>: Classroom Tutor <br />
+<b>Role</b>: Freelance Writer <br />
 <b>Period</b>: May 2017 - December 2018 <br />
 <b>Responsibilities</b>: 
+
 <ul> 
-<li>Classroom training at RS Gurukul Academy</li>
-<li>Personal Coaching and Online Tutoring</li>
-<li>Designing curriculum and writing content</li>
+<li>Wrote curriculum for RS Gurukul academy</li>
+<li>Simplified notes of mathematics and science subjects for students of class 8-12</li>
+<li>Developed walkthrough videos for clients</li>
 </ul>
 </div>
 </div>
@@ -92,13 +111,12 @@ through Selenium and Web GUI, and sending a summary mail.</li>
 </div>
 
 <div class="child12">
-<b>Role</b>: Java Intern <br />
+<b>Role</b>: Java Developer (Intern) <br />
 <b>Period</b>: December 2016 - April 2017 <br />
 <b>Responsibilities</b>: 
+
 <ul> 
-<li>Learning and developing Java applications</li>
-<li>Testing existing software products</li>
-<li>Conforming to SDLC cycle</li>
+<li>Performed maintenance of S/W products</li>
 </ul> 
 </div>
 </div>
