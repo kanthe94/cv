@@ -12,19 +12,22 @@ const features = [
     imageUrl: 'img/writer.png',
     description: (
       <>
-        Prepared user manuals, maintained knowledge bases, documented software products, created videos, wrote FAQs, and proofread content. Well-versed in using various tools such as Google Docs, Snagit, Camtasia, Amazon Polly, and Git.
+        Prepared user manuals, maintained knowledge bases, documented software products, created videos, wrote FAQs, and proofread content. Well-versed in using various tools such as GitBook, Docusaurus, Google Docs, Snagit, Camtasia, Amazon Polly, and Git.
       </>
     ),
   },
-  // {
-  //   title: 'Software Engineer',
-  //   imageUrl: 'img/engineer.png',
-  //   description: (
-  //     <>
-  //       Worked closely over 4 years with companies such as TechMahindra, Vyom Labs, Clover Infotech, as well as clients ICICI Lombard and Wipro in insurance domain.
-  //     </>
-  //   ),
-  // },
+  {
+    title: 'Freelance Writer',
+    imageUrl: 'img/engineer.png',
+    description: (
+      // <>
+      //   Worked closely over 4 years with companies such as TechMahindra, Vyom Labs, Clover Infotech, as well as clients ICICI Lombard and Wipro in insurance domain.
+      // </>
+      <>
+        Wrote a curriculum for educational institute. Simplified notes of mathematics and science subjects for students.
+      </>
+    ),
+  },
   {
     title: 'Classroom Trainer',
     imageUrl: 'img/trainer.png',

@@ -10,6 +10,63 @@ hide_table_of_contents: true
 <div class="child1">
 <div class="child11">
 
+![ImageSize](/img/credable.jpg)
+
+</div>
+
+<div class="child12">
+
+<b>Role</b>: Technical Writer <br />
+<b>Period</b>: February 2024 - Ongoing <br />
+<b>Responsibilities</b>:  
+
+<ul>
+<li>User Documentation: Created user guides for CredAble platforms (DDRX, DFX, DUW, RSTL-LOS, LMS) and Banking-as-a-Service (Axis Bank’s LOS Bharat Banking, DUW, and DDRX | Bank SMBC Indonesia LOS | Kotak Bank’s DDRX)</li>
+<li>Content Review & Editing: Proofread and edited release notes, API documentation, file validation documents, and UI content</li>
+<li>Quality Assurance & Publishing: Conducted self-QA, integrated SME and QA feedback, and published documentation on the Document Center</li>
+<li>Collaboration & Knowledge Management: Reviewed peer documentation and interviewed SMEs to build a knowledge base</li>
+</ul>
+
+</div>
+</div>
+
+---
+
+<div class="child1">
+<div class="child11">
+
+![ImageSize](/img/amdocs.jpg)
+
+</div>
+
+<div class="child12">
+
+<b>Role</b>: Technical Publications Professional <br />
+<b>Period</b>: August 2023 - January 2024 <br />
+<b>Responsibilities</b>:  
+
+<ul>
+<li>Drafting Release Notes and Functional Overview for Amdocs Order Management (AOM)</li>
+<li>Proofreading and Editing:</li>
+    <ul>
+    <li>User Guides for Amdocs Implementation & Customization and Service Orchestration Integration</li>
+    <li>Release Notes and Functional Overview for Fallout Management</li>
+    <li>AOM Subdomains - Resources & APIs documentation</li>
+    <li>BPMN documentation</li>
+    </ul>
+<li>Performing self QA for ALL documentations, integrating feedback from SMEs and QAs, and publishing them on Amdocs Product Support portal</li>
+<li>Reviewing documentations prepared by peer members</li>
+<li>Interviewing SMEs to prepare a knowledge base</li>
+</ul>
+
+</div>
+</div>
+
+---
+
+<div class="child1">
+<div class="child11">
+
 ![ImageSize](/img/fynd.png)
 
 </div>

@@ -80,20 +80,24 @@ hide_table_of_contents: true
 <div class="child12">
 
 <ul>
-<li> Google Docs </li>
-<li> Quip </li>
-<li> Snagit </li>
-<li> Camtasia </li>
-<li> Canva </li>
-<li> Postman </li>
-<li> Amazon Polly </li>
-<li> Visual Studio Code </li>
-<li> Grammarly </li>
-<li> Git </li>
-<li> Jira </li>
-<li> Docusaurus </li>
-<li> ChatGPT </li>
+    <li>Amazon Polly</li>
+    <li>Camtasia</li>
+    <li>Canva</li>
+    <li>ChatGPT</li>
+    <li>Confluence</li>
+    <li>Docusaurus</li>
+    <li>GitBook</li>
+    <li>GitHub</li>
+    <li>Google Docs</li>
+    <li>Grammarly</li>
+    <li>Jira</li>
+    <li>Markdown</li>
+    <li>Postman</li>
+    <li>Quip</li>
+    <li>Snagit</li>
+    <li>Visual Studio Code</li>
 </ul>
+
 
 </div>
 </div>

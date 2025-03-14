@@ -65,7 +65,7 @@ module.exports = {
           title: 'Contact Information',
           items: [
             {
-              label: 'Phone Number: 9619160088',
+              label: 'Phone Number: (+91) 9619160088',
               href:"#"
             },
             {
@@ -85,6 +85,11 @@ module.exports = {
               label: "Facebook",
               href: 'https://www.facebook.com/people/Ganesh-Kanthe/100008409331712',
             },
+            {
+              label: "Instagram",
+              href: 'https://www.instagram.com/ganeshkanthe?igsh=MWp1aDNzZHR4b3FiYg==',
+            },
+            
           ],
         },
       ],
