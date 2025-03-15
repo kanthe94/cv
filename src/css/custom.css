@@ -65,6 +65,7 @@
   color: rgb(20, 2, 70);
 }
 
+/*
 img[alt=ImageSize] {
   width: 200px;
 }
@@ -142,4 +143,62 @@ img[alt=SignSize] {
     flex-grow: 1;
     max-width: 100% !important;
 }
+} */
+
+/* Global Image Styling */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Image Wrappers */
+.child1, .child2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* Adjust image sizes dynamically */
+img[alt="ImageSize"] {
+  max-width: 200px;
+  height: auto;
+}
+
+img[alt="EducationSize"] {
+  max-height: 200px;
+  width: 200px;
+}
+
+img[alt="SignSize"] {
+  width: 15em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Layout Adjustments */
+.child1, .child2 {
+  gap: 20px;
+}
+
+.child11, .child12, .child21, .child22 {
+  flex: 1;
+  min-width: 40%;
+}
+
+/* Responsive Tweaks */
+@media (max-width: 768px) {
+  .child1, .child2 {
+    flex-direction: column;
+  }
+
+  .child11, .child12, .child21, .child22 {
+    min-width: 100%;
+  }
+
+  img[alt="SignSize"] {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
