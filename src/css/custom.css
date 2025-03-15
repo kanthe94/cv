@@ -128,6 +128,7 @@ img[alt=SignSize] {
   margin-right: 15%;
 }
 
+*/
 
 .navbar__link {
   color: var(--ifm-navbar-link-color) !important;
@@ -138,6 +139,7 @@ img[alt=SignSize] {
   background-color: rgb(228, 215, 240);
 }
 
+/*
 @media (min-width: 997px) {
 .docMainContainer_3ufF {
     flex-grow: 1;
