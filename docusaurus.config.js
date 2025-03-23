@@ -50,6 +50,11 @@ module.exports = {
           label: 'Education',
           position: 'left',
         },
+        {
+          href: 'https://kanthe94.github.io/my-portfolio', // Link to your Portfolio website
+          label: 'Portfolio',
+          position: 'left',
+        },
         // {to: 'blog', label: 'Blog', position: 'left'},
         // {
         //   href: 'https://github.com/facebook/docusaurus',
